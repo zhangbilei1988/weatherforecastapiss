@@ -1,0 +1,31 @@
+{
+  "name": "weatherforecastapiss",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "weatherforecastapiss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangbilei1988/weatherforecastapiss"
+  },
+  "website": "https://github.com/zhangbilei1988/weatherforecastapiss.git",
+  "keywords": [
+    "weatherforecastapiss"
+  ],
+  "author": "zhangbilei1988",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangbilei1988/weatherforecastapiss/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/zhangbilei1988/weatherforecastapiss#readme",
+  "dependencies": {
+    "fileuploadservicess": "1.0.2"
+  }
+}
